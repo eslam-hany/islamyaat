@@ -1,0 +1,22 @@
+body{
+    margin: 250px;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.animate__animated{
+    margin: 25px;
+    width: 150px;
+    height: 150px;
+}
+.fff{
+    width: 600px;
+    height: 600px;
+  margin: 250px;
+}
+h1{
+    text-align: center;
+    margin-left: 250px;
+}
